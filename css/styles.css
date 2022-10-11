@@ -1,0 +1,107 @@
+
+.body {
+color:#757575 ;
+background-color: #ffffff;
+}
+ 
+
+ul {
+    list-style: none;
+}
+ /* Styling nav */
+ 
+.logo {
+    color: #000000;
+    color: #2196F3;
+}
+
+ .nav-lyst { 
+        color: #212121;
+
+}
+.nav-lyst-studio {
+    color: #2196F3;
+}
+
+.nav-lyst-studio:hover,
+.nav-lyst-studio:focus{
+    color: red;
+}
+.nav-lyst:hover,
+.nav-lyst:focus{
+    color: red;
+}
+
+/* style contact */
+
+.site-nav-mail{
+    color: #2196F3;
+}
+.site-nav-mail:hover,
+.site-nav-mail:focus{
+    color: red;
+}
+.site-nav-tel{
+    color: #757575;
+}
+.site-nav-tel:hover,
+.site-nav-tel:focus{
+    color: red;
+}
+
+/* section section-title styles */
+.section{
+    color: #212121;
+}
+
+
+/* hero styles */
+.hero{
+    background: #2F303A;
+}
+.section-bissnes{
+    color: #ffffff;
+}
+.hero-title{
+    color: #ffffff;
+}
+.hero-button{
+    
+        width: 216px;
+        height: 50px;
+        left: 692px;
+        top: 430px;
+    
+        background: #2196F3;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 4px;
+}
+
+
+/* колір заголовків #212121 */
+
+/* колір тексту  #757575 */
+
+/* колір ЛОГО #2196F3      #FFFFFF */
+
+/*ХЕДЕР слово студія та емейл  #2196F3 */
+
+ /* Футер ЛОГО #2196F3 #FFFFFF 
+ Мило телефо ХЕКС  60%  color: rgba(255, 255, 255, 0.6);     */
+
+
+ /* Білий колір  #FFFFFF */
+
+ /* Ефективне рішенні background: #2F303A; */
+
+ /* особливості фон background: #F5F5F5; */
+
+ /* Наша команді фон background: #F5F4FA; */
+
+ /* Футер ФОН  background: #2F303A; */
+
+
+  /* Утиліт для скидування  */
+  /* .lyst{
+    list-style: none;
+} */
