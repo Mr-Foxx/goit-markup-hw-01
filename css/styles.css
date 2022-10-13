@@ -8,12 +8,16 @@ background-color: #ffffff;
 ul {
     list-style: none;
 }
- /* Styling nav */
+ /* Styling Logo */
  
 .logo {
-    color: #000000;
     color: #2196F3;
 }
+.logo-studio{
+    color: #000000;
+}
+
+/* Styling Naw */
 
  .nav-lyst { 
         color: #212121;
